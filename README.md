@@ -21,3 +21,11 @@ BONUS
 - Usare una select per inserire l'età
 - Stampare sul biglietto un numero di carrozza e un numero di biglietto casuali
 Buon divertimento! :monorotaia:
+1 recupero tutti gli elementi dal DOM
+2 creo una variabile del costo fisso al km
+3 Creo l'evento al click del mio bottone
+4 recupero tutti i valori degli elementi dichiarati in precedenza
+5 creo il biglietto con la tariffa ordinaria
+6 creo il messaggio con la suddetta tariffa
+7 creo le opzioni scontistiche, con annesso messagio
+8 pubblico il messaggio con l'aggiunta del nome utente
